@@ -11,7 +11,7 @@ This application aims to provide a human-curated publicly available Web space fo
 
 The problem being solved is the question, "Where did the rest of the Internet go?" At the time of writing, most Web content discovery happens through search engines & highly automated recommendation algorithms. Through a variety of mechanisms, these methods have led many Internet users to become entirely unaware of how to reliably navigate much of the Web outside of a few dominant platform-driven feeds, information directly provided from those feeds, and direct search results from that feed-provided information.
 
-This has created a cultural fatigue toward the apparent homogeneity of the Internet user's experience. The entire Internet looks & feels the same to many. There are even those who claim that a less homogenous Internet is a thing of the past. However, the rest of the Internet is not a thing of the past; it is only hidden right now. And this project aims to prove that.
+This has created a cultural fatigue toward the apparent homogeneity of the Internet user's experience. The entire Internet looks & feels the same to many. There are even those who claim that a less homogenous Internet is a thing of the past. However, the rest of the Internet is not a thing of the past; it's only hidden right now. And this project aims to provide an interface with which to create a more discoverable Web.
 
 ## Repositories
 - [Frontend](https://github.com/nullnet-labs/nullnet-frontend) - UI & SSR layer in Next.JS (using TypeScript)
