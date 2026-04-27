@@ -7,7 +7,7 @@ This organization exists as a central hub for repos, documentation, and project 
 
 ## Purpose
 
-This application aims to provide a human-curated publicly available Web space for finding and sharing other Web pages online.
+This application aims to provide a [human-curated](https://github.com/nullnet-labs/nullnet-docs/blob/main/explanation/concepts/human-curation.md) publicly available Web space for finding and sharing other Web pages online.
 
 <details>
   <summary>Why? What problem does this solve?</summary>
