@@ -22,4 +22,4 @@ This application aims to provide a [human-curated](https://github.com/nullnet-la
 ## Repositories
 - [Frontend](https://github.com/nullnet-labs/nullnet-frontend) - UI & SSR layer in Next.JS (using TypeScript)
 - [Backend](https://github.com/nullnet-labs/nullnet-backend) - API & business logic layer in Spring Boot (using Java 21)
-- [Documentation](https://github.com/nullnet-labs/nullnet-docs) - Supporting documents & reference material that doesn't belong in a particular code repo
+- [Documentation](https://github.com/nullnet-labs/nullnet-docs) - Supporting documents & reference materials that don't belong in a particular code repo
