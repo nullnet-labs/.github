@@ -1,7 +1,7 @@
 
 ## Overview
 
-"Nullnet" is the initial working name for a fullstack public-facing multi-repo Web application by Nicolas Hernandez.
+"Nullnet" is the initial working name for The Null Network, a fullstack public-facing multi-repo Web application by Nicolas Hernandez.
 
 This organization exists as a central hub for repos, documentation, and project tracking for the application.
 
