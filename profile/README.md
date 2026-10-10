@@ -14,6 +14,12 @@ I'm continuing this work because I care about what this project aims to provide.
 
 ## What was here?
 
-- Frontend - UI & SSR layer in Next.JS (using TypeScript, Next.JS version 16.2.6, React & React DOM version 19.2.6)
-- Backend - API & business logic layer in Spring Boot (using Java 21, Spring Boot 4.0.6)
-- Documentation - Supporting documents & reference materials that don't belong in a particular code repo; organized using [the Diátaxis approach](https://diataxis.fr/).
+- Frontend - UI & SSR layer in Next.JS
+  - TypeScript
+  - Next.JS version 16.2.6
+  - React & React DOM version 19.2.6
+- Backend - API & business logic layer in Spring Boot
+  - Java 21
+  - Spring Boot 4.0.6
+- Documentation - Supporting documents & reference materials that don't belong in a particular code repo
+  - Organized using [the Diátaxis approach](https://diataxis.fr/)
