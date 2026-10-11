@@ -6,11 +6,11 @@ My work on this project will continue under another name, due to this other name
 
 ## Why the move?
 
-I moved this work because I care about the impact that can be made by a Web discovery platform that allows people to freely navigate the Internet outside of the trappings of search optimization & mainstream dark-patterned recommendation algorithms. I've elected to carry out its work among independent Web enthusiasts & creative webmasters who already seek what this service aims to provide. Through their experience & enthusiasm toward online discovery, they can give the best early userbase and the best feedback for getting this project onto its feet.
+I moved this work in response to my research on my potential userbase. This project is a Web discovery platform that allows people to freely navigate the Internet outside of the trappings of search optimization & mainstream dark-pattern-oriented recommendation algorithms, and those who most seek what this service aims to provide are independent Web enthusiasts & creative webmasters. Through their experience & enthusiasm toward online discovery, they can give the best early userbase and the best feedback for getting this project onto its feet.
 
-As I've learned people on the independent Web value personal privacy & keeping any commercial interests as a second priority, it's most prudent of me to carry out this work under a screen name & away from a professional portfolio that's meant to make impressions on potential employers for the sake of getting hired. Now that I'm more familiar with the human-first/corporation-nth values of my potential audience, it would be remiss of me to continue this work as a project for a corporate portfolio. Additionally, this other screen name is trusted for having done high-quality work.
+As I've learned that people on the independent Web value personal privacy & keeping any commercial interests as a second priority, it's most prudent of me to carry out this work under a screen name & away from a professional portfolio that's meant to make impressions on potential employers for the sake of getting hired. Now that I'm more familiar with the human-first/corporation-nth values of my potential audience, it would be remiss of me to continue this work as a project for a corporate portfolio. Additionally, this other screen name is now trusted for my having provided high-quality work using it.
 
-I'm continuing this work because I care about what this project aims to provide. I'm just carrying it out under a different name because I care about its success.
+I'm continuing this work because I care about what this project aims to provide. I'm just carrying it out under a different name, because I also care about its success.
 
 ## What was here?
 
