@@ -18,8 +18,13 @@ I'm continuing this work because I care about what this project aims to provide.
   - TypeScript
   - Next.JS version 16.2.6
   - React & React DOM version 19.2.6
+  - Tailwind CSS, supplemented with CSS modules for styles & filling in feature gaps in Tailwind (such as vertical text styles for providing better label info density during mobile display)
 - Backend - API & business logic layer in Spring Boot
   - Java 21
   - Spring Boot 4.0.6
 - Documentation - Supporting documents & reference materials that don't belong in a particular code repo
   - Organized using [the Diátaxis approach](https://diataxis.fr/)
+
+## What will happen now?
+
+Another more values-aligned portfolio project will be carried out using a similar stack of Web technologies. Its niche will be closer to an established social-media-marketing user space but in a way that I believe I can provide better value than the current (seemingly very small) pool of competition. Therefore, values alignment will be better placed in this as-yet unnamed future portfolio project.
